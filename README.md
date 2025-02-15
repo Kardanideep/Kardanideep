@@ -48,7 +48,7 @@
 
 <p align="center">  
   <strong>📝 Deep Blogs</strong><br>
-  <a href="https://deep-blogs.vercel.app/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kardanideep&repo=deep-blog&theme=algolia"/></a>
+  <a href="https://deep-blogs.vercel.app/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kardanideep&repo=deep-blog&theme=algolia&v=1"/></a>
 </p>
 
 <p align="center">  
