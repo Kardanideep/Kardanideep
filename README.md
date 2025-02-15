@@ -43,7 +43,7 @@
 
 <p align="center">
   <strong>🌐 Portfolio</strong><br>
-  <a href="https://deep-k-portfolio.vercel.app/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kardanideep&repo=deep-portfolio&theme=algolia"/></a>
+  <a href="https://deep-k-portfolio.vercel.app/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kardanideep&repo=deep-portfolio&theme=algolia&v=1"/></a>
 </p>  
 
 <p align="center">  
@@ -53,12 +53,12 @@
 
 <p align="center">  
   <strong>🏕️ Wanderlust Travel Guide</strong><br>
-  <a href="https://delta-project-kmys.onrender.com/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kardanideep&repo=delta-project&theme=algolia"/></a>
+  <a href="https://delta-project-kmys.onrender.com/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kardanideep&repo=delta-project&theme=algolia&v=1"/></a>
 </p>
 
 <p align="center">  
   <strong>💬 Coding Forum</strong><br>
-  <a href="https://my-forum.rf.gd/forum"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kardanideep&repo=froum-project&theme=algolia"/></a>
+  <a href="https://my-forum.rf.gd/forum"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kardanideep&repo=froum-project&theme=algolia&v=1"/></a>
 </p>
 
 ---
