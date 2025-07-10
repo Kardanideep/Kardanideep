@@ -35,7 +35,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mysql,mongodb,php,bootstrap,tailwind,git,github" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mysql,mongodb,bootstrap,tailwind,git,github" alt="Tech Stack">
 </p>
 
 ---
